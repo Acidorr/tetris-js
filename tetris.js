@@ -218,13 +218,13 @@ function updateScore(){
 
 const colors = [
   null,
-  'red',
-  'blue',
-  'violet',
-  'green',
   'purple',
+  'yellow',
   'orange',
-  'pink'
+  'blue',
+  'aqua',
+  'green',
+  'red'
 ]
 
 const arena = createMatrix(12, 20);
